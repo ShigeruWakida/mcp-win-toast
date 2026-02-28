@@ -44,6 +44,8 @@ Displays a Windows toast notification.
 | title | string | Notification title |
 | message | string | Notification body text |
 
+![toast notification example](images/toast-example.png)
+
 ### show_dialog
 
 Displays a standard Windows dialog box with an OK button. Execution is blocked until the user clicks OK, making it ideal for confirmations and important alerts.
@@ -52,6 +54,8 @@ Displays a standard Windows dialog box with an OK button. Execution is blocked u
 |-----------|------|-------------|
 | title | string | Dialog title |
 | message | string | Dialog body text |
+
+![dialog example](images/dialog-example.png)
 
 ## Setup
 
